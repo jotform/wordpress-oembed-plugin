@@ -18,7 +18,7 @@ This plugin is great if you want to add a survey to your blog post. You can surv
 
 Another common usage of forms in blogs is to do giveways. You can tell your users you'll be giving away something valuable to the first 10 people who fill the form. 
 
-JotForm is easy to use drag and drop form builder trusted by over 1.5 million users. Its intuitive user interface makes form building a breeze. JotForm is FREE upto 100 submissions per month. If your forms get submitted more than 100 times, it is $9.95/month.
+JotForm is easy to use drag and drop form builder trusted by over 5.3 million users. Its intuitive user interface makes form building a breeze. JotForm is FREE up to 100 submissions per month. If your forms get submitted more than 100 times, it is $19/month.
 
 
 == Installation ==
@@ -43,11 +43,11 @@ Using JotForm you can create [contact forms](http://www.jotform.com/form-templat
 
 = What is JotForm? = 
 
-[JotForm](http://www.jotform.com) is a free form builder. It is trusted by over 1 millions users. Two things make JotForm great: Easy to use form builder and large number of ready-to-use form templates. You can choose from over 2500 form templates and quickly create your forms.
+[JotForm](http://www.jotform.com) is a free form builder. It is trusted by over 1 millions users. Two things make JotForm great: Easy to use form builder and large number of ready-to-use form templates. You can choose from over 10000+ form templates and quickly create your forms.
 
 = Is it Free? =
 
-JotForm is free upto 100 form submissions per month. If you go over that limit you will need to upgrade to a Premium plan at $9.95/month.
+JotForm is free up to 100 form submissions per month. If you go over that limit you will need to upgrade to a Bronze plan at $19/month.
 
 
 == Changelog ==
