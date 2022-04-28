@@ -12,7 +12,7 @@
 class JotFormOEmbed {
 
     public function __construct() {
-        wp_oembed_add_provider( '#https?://(secure\.|www\.|form\.)?(my)?jotform(pro|eu|z)?\.(com|net|us|ca|me|co)(/form)?/[0-9]*#i', 'https://www.jotform.com/oembed/', true );
+        wp_oembed_add_provider('#https?://(secure\.|www\.|form\.|app\.)?(my)?jotform(pro|eu|z)?\.(com|net|us|ca|me|co)(/form|/app)?/[0-9]*#i', 'https://www.jotform.com/oembed/', true);
     }
 
 }
