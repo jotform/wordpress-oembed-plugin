@@ -2,12 +2,12 @@
 Contributors: jotform
 Donate link: N/A
 Tags: jotform, form, embed, contact form, survey form, online form, web form, online forms, web forms
-Requires at least: 3.3
-Tested up to: 6.6
+Requires at least: 4.9
+Tested up to: 6.7
 Stable tag: 1.3.0
 License: GNU General Public License v3
 License URI: http://www.gnu.org/licenses/gpl.html
-Requires PHP: 5.6
+Requires PHP: 7.2
 
 Add Jotform to the available oEmbed providers to let you easily embed Jotform forms by just entering the form URL
 
@@ -15,11 +15,11 @@ Add Jotform to the available oEmbed providers to let you easily embed Jotform fo
 
 Adding a web form to your blog post is now very easy using Jotform's oEmbed plugin. When you install it, Wordpress will be aware of Jotform form URLs, and easily embed them to your blog posts.
 
-This plugin is great if you want to add a survey to your blog post. You can survey your readers and then write about the results on a future blog post. 
+This plugin is great if you want to add a survey to your blog post. You can survey your readers and then write about the results in a future blog post.
 
-Another common usage of forms in blogs is to do giveaways. For example, you can tell your users you’ll be giving away something valuable to the first 10 people who fill the form.
+Another common use of forms in blogs is to do giveaways. For example, you can tell your users you’ll be giving away something valuable to the first 10 people who fill out the form.
 
-Jotform is an easy to use drag and drop form builder trusted by over 10 million users. Its intuitive user interface makes building a form a breeze. Jotform is FREE upto 100 submissions per month. If your forms get submitted more than 100 times, other Jotform plans start from $19/month.
+Jotform is an easy to use drag and drop form builder trusted by over 20 million users. Its intuitive user interface makes building a form a breeze. Jotform is FREE with up to 100 submissions per month. If your forms get submitted more than 100 times, other Jotform plans start from $34/month.
 
 
 == Installation ==
@@ -44,11 +44,11 @@ Using Jotform you can create [contact forms](http://www.jotform.com/form-templat
 
 = What is Jotform? = 
 
-[Jotform](http://www.jotform.com/) is a free form builder. It is trusted by over 10 millions users. Two things make Jotform great: Easy to use form builder and large number of ready-to-use form templates. You can choose from over 10000 form templates and quickly create your forms.
+[Jotform](http://www.jotform.com/) is a free form builder. It is trusted by over 20 millions users. Two things make Jotform great: An easy-to-use form builder and a large number of ready-to-use form templates. You can choose from over 10000 form templates and quickly create your forms.
 
 = Is it Free? =
 
-Jotform is free upto 100 form submissions per month. If you go over that limit you will need to upgrade to a paid plan at $19/month.
+Jotform is free for up to 100 form submissions per month. If you go over that limit you will need to upgrade to a paid plan at $34/month.
 
 
 == Changelog ==
