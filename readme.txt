@@ -2,12 +2,12 @@
 Contributors: jotform
 Donate link: N/A
 Tags: jotform, form, embed, contact form, survey form, online form, web form, online forms, web forms
-Requires at least: 4.9
+Requires at least: 5.3
 Tested up to: 6.7
 Stable tag: 1.3.0
 License: GNU General Public License v3
 License URI: http://www.gnu.org/licenses/gpl.html
-Requires PHP: 7.2
+Requires PHP: 7.4
 
 Add Jotform to the available oEmbed providers to let you easily embed Jotform forms by just entering the form URL
 
@@ -44,7 +44,7 @@ Using Jotform you can create [contact forms](http://www.jotform.com/form-templat
 
 = What is Jotform? = 
 
-[Jotform](http://www.jotform.com/) is a free form builder. It is trusted by over 20 millions users. Two things make Jotform great: An easy-to-use form builder and a large number of ready-to-use form templates. You can choose from over 10000 form templates and quickly create your forms.
+[Jotform](http://www.jotform.com/) is a free form builder. It is trusted by over 20 million users. Two things make Jotform great: An easy-to-use form builder and a large number of ready-to-use form templates. You can choose from over 10000 form templates and quickly create your forms.
 
 = Is it Free? =
 
