@@ -4,7 +4,7 @@ Donate link: N/A
 Tags: jotform, form, embed, contact form, survey form, online form, web form, online forms, web forms
 Requires at least: 5.3
 Tested up to: 6.7
-Stable tag: 1.3.0
+Stable tag: 1.3.1
 License: GNU General Public License v3
 License URI: http://www.gnu.org/licenses/gpl.html
 Requires PHP: 7.4
@@ -53,7 +53,8 @@ Jotform is free for up to 100 form submissions per month. If you go over that li
 
 == Changelog ==
 
-N/A
+= 1.3.1 =
+* docs: update description
 
 == Upgrade notice ==
 
