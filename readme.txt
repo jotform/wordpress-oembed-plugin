@@ -1,4 +1,4 @@
-=== Jotform oEmbed ===
+=== oEmbed — Embed Form Securely - Jotform ===
 Contributors: Jotform
 Tags: jotform, form, embed, contact form, survey form
 Requires at least: 5.3
