@@ -1,6 +1,6 @@
 <?php
 /*
-    Plugin Name: Jotform oEmbed
+    Plugin Name: oEmbed — Embed Form Securely - Jotform
     Plugin URI: https://wordpress.org/plugins/jotform-oembed/
     Description: Adding a web form to your blog post is now very easy using Jotform’s oEmbed plugin. When you install it, WordPress will be aware of Jotform form URLs, and easily embed them to your blog posts.
     Version: 1.3.4
