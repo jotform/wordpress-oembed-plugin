@@ -1,13 +1,19 @@
 <?php
 /*
     Plugin Name: Jotform oEmbed
-    Plugin URI: http://www.jotform.com/labs/wordpress
+    Plugin URI: https://wordpress.org/plugins/jotform-oembed/
     Description: Adding a web form to your blog post is now very easy using Jotform’s oEmbed plugin. When you install it, WordPress will be aware of Jotform form URLs, and easily embed them to your blog posts.
-    Version: 1.3.3
-    Author: Jotform.com
-    Author URI: http://www.jotform.com
-    License: GNU General Public License v3
+    Version: 1.3.4
+    Author: Jotform
+    Author URI: https://www.jotform.com/
+    License: GPLv2 or later
+    License URI: https://www.gnu.org/licenses/gpl-2.0.html
 */
+
+// Exit if accessed directly
+if (!defined('ABSPATH')) {
+    exit(0);
+}
 
 class JotFormOEmbed {
     public function __construct() {
@@ -27,11 +33,11 @@ class JotFormOEmbed {
         }
     
         $plugin_slug = 'jotform-ai-chatbot';
-        $plugin_url = esc_url("plugin-install.php?tab=plugin-information&plugin=$plugin_slug&TB_iframe=true&width=600&height=550");
+        $plugin_url = "plugin-install.php?tab=plugin-information&plugin=$plugin_slug&TB_iframe=true&width=600&height=550";
     
         ?>
         <div class="notice notice-info is-dismissible" id="jotform-ai-chatbot-admin-notice">
-            <p>🚀 <strong>Meet Jotform AI Chatbot!</strong> Automate support, boost engagement & generate leads. No coding needed. <a href="<?php echo $plugin_url; ?>" class="thickbox">Try it now!</a> 🤖✨</p>    
+            <p>🚀 <strong>Meet Jotform AI Chatbot!</strong> Automate support, boost engagement & generate leads. No coding needed. <a href="<?php echo esc_url($plugin_url); ?>" class="thickbox">Try it now!</a> 🤖✨</p>    
         </div>
         <?php
         
